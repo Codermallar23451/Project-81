@@ -1,0 +1,16 @@
+h1{
+color: red; 
+font-size: 40px;
+}
+
+.body_backgorund {
+background-image: url("https://previews.123rf.com/images/cotopaxi/cotopaxi1801/cotopaxi180100014/92916199-abstract-art-background-digital-painting-color-texture-modern-art-contemporary-art-colorful-canvas-.jpg");
+background-position: center;
+background-size: cover;
+}
+
+#my_canvas{
+border-width: 10px;
+background-color: rgb(192, 239, 245);
+border-style: ridge;
+}
